@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/PublicPortifolio/static/css/main.aadb1f2f.chunk.css",
-    "main.js": "/PublicPortifolio/static/js/main.e5b5d36f.chunk.js",
-    "main.js.map": "/PublicPortifolio/static/js/main.e5b5d36f.chunk.js.map",
+    "main.css": "/PublicPortifolio/static/css/main.fe9db38f.chunk.css",
+    "main.js": "/PublicPortifolio/static/js/main.ba80b666.chunk.js",
+    "main.js.map": "/PublicPortifolio/static/js/main.ba80b666.chunk.js.map",
     "runtime-main.js": "/PublicPortifolio/static/js/runtime-main.65e01a04.js",
     "runtime-main.js.map": "/PublicPortifolio/static/js/runtime-main.65e01a04.js.map",
     "static/css/2.d6dc494e.chunk.css": "/PublicPortifolio/static/css/2.d6dc494e.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.38ff111f.chunk.js.map": "/PublicPortifolio/static/js/3.38ff111f.chunk.js.map",
     "index.html": "/PublicPortifolio/index.html",
     "static/css/2.d6dc494e.chunk.css.map": "/PublicPortifolio/static/css/2.d6dc494e.chunk.css.map",
-    "static/css/main.aadb1f2f.chunk.css.map": "/PublicPortifolio/static/css/main.aadb1f2f.chunk.css.map",
+    "static/css/main.fe9db38f.chunk.css.map": "/PublicPortifolio/static/css/main.fe9db38f.chunk.css.map",
     "static/js/2.b4a5154e.chunk.js.LICENSE.txt": "/PublicPortifolio/static/js/2.b4a5154e.chunk.js.LICENSE.txt",
     "static/media/CV_ENGLISH.b639879f.pdf": "/PublicPortifolio/static/media/CV_ENGLISH.b639879f.pdf",
     "static/media/CV_FRENCH.17fbb059.pdf": "/PublicPortifolio/static/media/CV_FRENCH.17fbb059.pdf",
@@ -24,14 +24,14 @@
     "static/media/logo.de8fe431.png": "/PublicPortifolio/static/media/logo.de8fe431.png",
     "static/media/me.20268061.png": "/PublicPortifolio/static/media/me.20268061.png",
     "static/media/mqtt_dotnet.6e74b82d.jpg": "/PublicPortifolio/static/media/mqtt_dotnet.6e74b82d.jpg",
-    "static/media/style.css": "/PublicPortifolio/static/media/pre.69be4f1b.svg",
+    "static/media/style.css": "/PublicPortifolio/static/media/pre.e56a23b2.svg",
     "static/media/resmat.925dddac.png": "/PublicPortifolio/static/media/resmat.925dddac.png"
   },
   "entrypoints": [
     "static/js/runtime-main.65e01a04.js",
     "static/css/2.d6dc494e.chunk.css",
     "static/js/2.b4a5154e.chunk.js",
-    "static/css/main.aadb1f2f.chunk.css",
-    "static/js/main.e5b5d36f.chunk.js"
+    "static/css/main.fe9db38f.chunk.css",
+    "static/js/main.ba80b666.chunk.js"
   ]
 }
